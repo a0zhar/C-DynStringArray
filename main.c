@@ -1,7 +1,11 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-
+/* 
+ADDING:
+INIT FUNCTION
+POP FUNCTION
+*/
 struct StrArray {
     char **elements;
     int length;
